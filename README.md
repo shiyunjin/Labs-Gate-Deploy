@@ -1,4 +1,4 @@
-# Labs-Gate-Deploy
+# Labs Gate Deploy
 Deploy University laboratory network management system
 
 # Deploy with Docker
